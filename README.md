@@ -96,27 +96,10 @@ I'm an AI/ML engineer and full-stack developer finishing my Computer Engineering
 
 <div align="center">
 
-<!-- Replace github-readme-stats-nine-lac-68.vercel.app below with your own deployed instance of github-readme-stats -->
-<!-- Fork: https://github.com/anuraghazra/github-readme-stats → Deploy on Vercel with PAT_1 env var -->
-
-<table><tr>
-<td>
-
-![Stats](https://github-readme-stats-nine-lac-68.vercel.app/api?username=sil-ryu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
-
-</td>
-<td>
-
-![Top Langs](https://github-readme-stats-nine-lac-68.vercel.app/api/top-langs/?username=sil-ryu&layout=compact&theme=radical&hide_border=true&langs_count=10)
-
-</td>
-</tr></table>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sil-ryu&style=flat-square&color=fe428e&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/sil-ryu?style=flat-square&color=a960e4&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/sil-ryu?style=flat-square&color=f8d847&label=TOTAL+STARS&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=sil-ryu&style=for-the-badge&color=fe428e&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/sil-ryu?style=for-the-badge&color=a960e4&label=FOLLOWERS&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/sil-ryu?style=for-the-badge&color=f8d847&label=TOTAL+STARS&logo=github&logoColor=black)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=fd7014&label=PUBLIC+REPOS&logo=github&logoColor=white&query=public_repos&url=https://api.github.com/users/sil-ryu)
 
 <br/>
 
